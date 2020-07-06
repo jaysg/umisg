@@ -1,1 +1,1 @@
-# umisg
+# 基于umi-library 开发的自定义组件库

@@ -1,0 +1,54 @@
+{
+  "config": {
+    "title": "Umisg",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "version": "1.0.0",
+    "repository": false,
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {},
+    "separator": "-",
+    "typescript": false,
+    "theme": "/Volumes/Macintosh HD - Data/umisg/node_modules/docz-theme-umi/es/index.js",
+    "plugins": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "props": [],
+  "entries": [
+    {
+      "key": "src/Button/index.mdx",
+      "value": {
+        "name": "Button",
+        "route": "/",
+        "id": "89647727e875df04cc5bf278144070b9",
+        "filepath": "src/Button/index.mdx",
+        "link": "",
+        "slug": "src-button-index",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "button",
+            "depth": 1,
+            "value": "Button"
+          },
+          {
+            "slug": "normal-button",
+            "depth": 2,
+            "value": "Normal Button"
+          },
+          {
+            "slug": "red-button",
+            "depth": 2,
+            "value": "Red Button"
+          }
+        ]
+      }
+    }
+  ]
+}
