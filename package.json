@@ -1,6 +1,6 @@
 {
-  "name": "@jaysg/umisg",
-  "version": "1.0.1",
+  "name": "umisg",
+  "version": "1.0.2",
   "main": "./dist/index.js",
   "module": "./dist/index.esm.js",
   "unpkg": "./dist/index.umd.js",
@@ -21,9 +21,6 @@
   "files": [
     "dist"
   ],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/jaysg"
-  },
   "author": {
     "name": "jaysg",
     "email": "a8022476@yeah.net"
