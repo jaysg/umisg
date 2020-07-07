@@ -1,12 +1,14 @@
 # 基于umi-library 开发的自定义组件库
 
-## 获取
+## 入门
+
+参考 /src/Button/index.mdx 
+
+mdx允许使用jsx语法
 
 ``` 
 npm install umisg
 ``` 
-
-## 用法实例
 
 ```
 import { Button } from 'umisg';
@@ -17,3 +19,7 @@ import { Button } from 'umisg';
 
 <Button color="Red"></Button>
 ```
+
+## Component Doc
+
+组件文档暂未部署～
